@@ -2,10 +2,6 @@ kind: ConfigMap
 apiVersion: v1
 metadata:
   name: todo-list-spring-boot
-  namespace: foo-dev
-  uid: 6928fbde-5864-4432-8e77-8eb3830de5c6
-  resourceVersion: '1094631'
-  creationTimestamp: '2021-12-10T14:33:34Z'
 data:
   TODO_LIST_EDITABLE: true 
   
